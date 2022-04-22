@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MathiasSM.
+- 👀 I’m interested in Haskell, DevOps, Postgres.
+- 🌱 I’m currently learning AWS, IaC, TypeScript.
+- 🧗 I’m looking to collaborate on Haskell projects (I'm still a beginner, though).
